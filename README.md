@@ -1,2 +1,2 @@
 # calculator
-Deskripppppppppppppppppppppssssssssssssssssssiiiiiiiiiiiiiiiiiiiiiiiiiiii kegabutan yang hqq
+build with c++
